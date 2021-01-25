@@ -1,5 +1,5 @@
 package encription
 
-func encript() string {
+func SayHello() string {
 	return "Decript"
 }
