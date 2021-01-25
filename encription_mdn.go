@@ -1,4 +1,4 @@
-package encription
+package Encription
 
 func SayHello() string {
 	return "Decript"
